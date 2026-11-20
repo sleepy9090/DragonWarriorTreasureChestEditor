@@ -1,18 +1,11 @@
-﻿DragonWarriorTreasureChestEditor 1.0.0.23238
-Coded by: Shawn M. Crawford [sleepy9090]
-February 9, 2018
+﻿# DragonWarriorTreasureChestEditor <br/>
+Program to treasure chest locations and contents for Dragon Warrior NES ROM.<br/>
 
--Requires .NET Framework 3.5
+-Tested with headered Dragon Warrior (U) (PRG0) [!].nes ROM.<br/>
+-Tested with headered Dragon Warrior (U) (PRG1) [!].nes ROM.<br/>
 
-DragonWarriorTreasureChestEditor 
-Program to treasure chest locations and contents for Dragon Warrior NES ROM.
+<img width="725" height="581" alt="image" src="https://github.com/user-attachments/assets/58346586-ef2f-45ee-9162-f84fe19cb3e3" /><br/>
 
--Tested with headered Dragon Warrior (U) (PRG0) [!].nes ROM.
--Tested with headered Dragon Warrior (U) (PRG1) [!].nes ROM.
-
-Feel free to send bugs to sleepy3d@email.com or file them on github: https://github.com/sleepy9090
-
-Version: 1.0.0.23238 February 9, 2018
--first version
+<img width="725" height="581" alt="image" src="https://github.com/user-attachments/assets/141802ca-44c3-4175-b810-03c308198e82" /><br/>
 
 
